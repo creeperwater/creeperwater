@@ -23,6 +23,7 @@ In addition, my [Telegram](https://t.me/creeper_water) and [QQ](https://pd.qq.co
 
 |Works|State|Link|Description|
 |:-:|:-:|:-:|:-:|
-|政治与历史|:large_blue_circle:|https://creeperwater.github.io/ph/|NAN|
+|政治与历史|:yellow_circle:|https://creeperwater.github.io/ph/ |专注政治与历史文献收集|
+|苦力怕水|:yellow_circle:|https://klps.top |门户网站|
 
 > :green_circle:Online :large_blue_circle:Developing :red_circle:Needs repair :white_circle:Undo list :black_circle:Abandon :yellow_circle:Pause
