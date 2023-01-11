@@ -25,6 +25,6 @@ In addition, my [Telegram](https://t.me/creeper_water) and [QQ](https://pd.qq.co
 |:-:|:-:|:-:|:-:|
 |政治与历史|:yellow_circle:|https://creeperwater.github.io/ph/ |专注政治与历史文献收集|
 |苦力怕水|:yellow_circle:|https://klps.top |门户网站|
-|3Chess|:green_circle|https://creeperwater.github.io/3Chess/ |Tic-tac-toe with great UI and must-win AI.|
+|3Chess|:green_circle:|https://creeperwater.github.io/3Chess/ |Tic-tac-toe with great UI and must-win AI.|
 
 > :green_circle:Online :large_blue_circle:Developing :red_circle:Needs repair :white_circle:Undo list :black_circle:Abandon :yellow_circle:Pause
